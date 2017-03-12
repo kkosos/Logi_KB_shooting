@@ -1,0 +1,20 @@
+﻿已經開始建置於 2017/3/12 下午 08:15:41。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\ConsoleApplication2\ConsoleApplication2.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt game.cpp
+         game.cpp
+     1>c:\users\wei\desktop\logi_hack\shoot'em up\consoleapplication2\game.cpp(146): warning C4101: 'input': 未參考的區域變數
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\ConsoleApplication2.res" ConsoleApplication2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\ConsoleApplication2.res
+         Debug\game.obj
+         Debug\stdafx.obj
+         ConsoleApplication2.vcxproj -> C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\Debug\ConsoleApplication2.exe
+     1>專案 "C:\Users\WEI\Desktop\Logi_Hack\shoot'em up\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.42
